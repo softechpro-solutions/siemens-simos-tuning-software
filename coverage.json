@@ -1,9 +1,9 @@
 {
   "software": "Softechpro Solutions v2.0.4",
-  "family": "Siemens / Continental SIMOS & PCR",
-  "slug": "siemens-simos-tuning-software",
+  "repository": "siemens-simos-tuning-software",
+  "title": "Continental SIMOS & PCR2.1 ECU Tuning Software",
   "official_url": "https://www.softechpro-solutions.com/",
-  "matched_ecu_variants": 4962,
-  "matched_brands_count": 81,
-  "coverage_by_brand": {}
+  "github_pages_url": "https://softechpro-solutions.github.io/siemens-simos-tuning-software/",
+  "supported_brands_count": 0,
+  "coverage_sample": {}
 }
